@@ -4,7 +4,7 @@ Config.TeleportMenuTitle = "Teleport Menu" -- ox_lib context menu title
 
 Config.OpenTeleportMenu = "teleport" -- command with open teleport menu
 
-Config.TeleportMenuKey = "F1" -- key with open teleport menu
+Config.TeleportMenuKey = "F1" -- key with open teleport menu / IF YOU CHANGED IT THEN YOU MUST DELETE THE CECHE FOLDER AND ONLY THEN IT WILL BE GOOD
 
 Config.TeleportPoints = {
     {label = 'Humane Labs', coords = vec4(3513.8374, 3757.7773, 29.9793, 349.1299)},
