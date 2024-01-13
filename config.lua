@@ -1,7 +1,5 @@
 Config = {}
 
-Config.Framework = "NEW_ESX" -- NEW_ESX / OLD_ESX  / QBCORE | Other core setting on the 'core' folder and the client core.lua
-
 Config.TeleportMenuTitle = "Teleport Menu" -- ox_lib context menu title
 
 Config.OpenTeleportMenu = "teleport" -- command with open teleport menu
